@@ -1,4 +1,6 @@
-ign="left">Hi 👋! I'm Gaurav and I'm a Full-Stack Developer , from India.</h2>
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXc3b3hyYzQ1OWxoYXJ3eXRkenA5dXd1NGZwZTkyYmh5N3F2NDM3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gmkKYdY3OIq8NYxH6H/giphy.gif"  />
+</div>
 
 ###
 
@@ -95,5 +97,8 @@ ign="left">Hi 👋! I'm Gaurav and I'm a Full-Stack Developer , from India.</h2>
 <div align="center">
   <img src="https://profile-counter.glitch.me/Tomar606/count.svg?"  />
 </div>
+
+###
+
 
 ###
