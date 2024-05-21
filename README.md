@@ -1,4 +1,3 @@
-<h2 al![Dark Violet Personal Finance Quote Facebook Cover (1)](https://github.com/Tomar606/Tomar606/assets/152065169/1010f2e5-0eb3-4329-8cdc-c3672e7b00ff)
 ign="left">Hi 👋! I'm Gaurav and I'm a Full-Stack Developer , from India.</h2>
 
 ###
