@@ -109,7 +109,6 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Tomar606/count.svg?"  />
-  ## Profile Views
 </div>
-
+## Profile Views
 
