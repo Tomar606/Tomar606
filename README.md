@@ -27,7 +27,10 @@ desktop software distributed to non-technical users across Windows and macOS.
 <br />
 
 <div align="center">
-  <img src="assets/tiger.gif" alt="" width="440" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tiger-dark.gif" />
+    <img src="assets/tiger.gif" alt="" width="440" />
+  </picture>
 </div>
 
 <br />
