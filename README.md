@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/tiger.png" alt="" width="300" />
+<img src="assets/tiger.gif" alt="" width="420" />
 
 # Gaurav Singh Tomar
 
