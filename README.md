@@ -1,114 +1,112 @@
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRpNjNhbmdvMzZ2anN0NGx3ZTZ5OXNhZnZxd3hzZ211amswNmFteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YWFaUm1EthFvSGsGcv/giphy.gif"  />
-    <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTd2aGozM25wanNuMmN3bTlqeXp1anR2YjM2Zzc2M2FxZmtiNmJzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGmjEp04svlK561eCt/giphy-downsized-large.gif"  />
-</div>
+## Gaurav Singh Tomar
 
+**AI Product Engineer at Arivihan Technologies.** I build AI tooling that non-technical
+people actually use, and I stay on it until they use it without me.
 
-###
+Most of my work is production systems with a human in the loop: generation pipelines with
+real quality gates, review stages a subject teacher can operate, and desktop apps that
+install on a colleague's Windows machine without anyone's help. Based in Indore, India.
+Open to remote.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tomar606&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Tomar606&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomar606&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### Now
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjltaXk1dTBoMHY2aDRobGVoMmNsbWFkc283dzczdDN6Yjk5bGRjYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif"  />
+Building the internal AI toolkit at Arivihan: **20+ agent tools used by 200+ staff**,
+covering spec authoring, analytics instrumentation, dashboard generation and content
+pipelines, distributed as a synced plugin so improvements reach everyone at once.
 
-###
+Also running the AI video production platform that has shipped **800+ educational videos**
+across four state boards in Hindi and English medium.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
+---
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="30" alt="neo4j logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" alt="twitter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+## Timeline
 
-###
+### 2026 — AI systems and shipped products
 
-<div align="left">
-  <a href="https://www.instagram.com/tomar_since2004/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="gaurav8993" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="gstomar606@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/gaurav-singh-tomar-046a6a26a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Gauravtomar606" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+**October — [Design Automater](https://github.com/Tomar606/design-automater-releases)**
+A desktop app for turning raw study material into finished design decks. A non-technical
+user picks a design, drops in PDFs, Word files, scans, Excel or PowerPoint, reviews the
+structured data Claude extracted beside a live preview, and gets PNG slides plus a PDF.
+Local-first: the dashboard runs on the user's own machine and their files never leave it.
+Ships as a Windows installer that needs no admin rights, installs its own runtime on first
+launch, and updates through a public release channel. New designs drop in as a folder,
+compiled from Figma frames to within 0–4 px of the source.
 
-###
+**October — video pipeline, third generation**
+Rewrote the production pipeline around a staged, resumable architecture where any stage
+restarts without redoing upstream work, retiring the earlier animation-only and
+generation-only tracks. Eight automated quality gates sit behind one command with a
+non-zero exit and auditable waivers, so nothing reaches delivery unchecked.
 
-<br clear="both">
+**September — [flow-animator](https://github.com/Tomar606/flow-animator)**
+Topic briefs in, keyed animation clips out. Drives Google Flow through a local bridge,
+keys the result, and delivers finished clips straight into the folder the video pipeline
+reads.
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-###
+**August — [AI video production platform](https://github.com/Tomar606/manim-video-solution-generator)**
+One board-exam question becomes a finished vertical video: narration splicing, caption
+generation, generated b-roll, exact subject diagrams, compositing and delivery. Vision-model
+QC inspects rendered frames for layout, contrast and geometry defects. A provider-agnostic
+LLM layer keeps model choice out of 50+ downstream tools. The review stage is an
+auto-generated page showing every frame with its narration and audio, where a reviewer's
+inline notes come back as one structured response the system consumes directly.
+
+**August — content-factory**
+Compiles a Figma frame once into a reusable template, then batch-renders structured content
+to PDF and PNG through headless Chromium — something the Figma API cannot do without a
+manual click per chapter.
+
+**July — PawDesk**
+A macOS desktop companion in Swift. A click-through, always-on-top pet driven by a
+weighted-random behaviour engine, with emotional state and three personalities that bias
+its weights. Persisted with SwiftData, monetised with StoreKit 2, packaged for the Mac
+App Store.
+
+**January — joined Arivihan Technologies** as an AI Product Engineer intern; full-time
+from April.
+
+### 2025 — moving to Python and AI
+
+**OnTry** and a shift out of full-stack web into Python, LLM APIs and pipeline work. This
+is the year the focus changed from building web apps to building systems that produce
+things.
+
+### 2024 — full-stack web
+
+**[EIClassroom](https://github.com/Tomar606/EIClassroom-client)** — an LMS for my college
+department: QR attendance, internal forms and surveys, assignment distribution, automated
+evaluation and report generation. Client and server, self-hosted on the college intranet.
+
+Alongside it a run of full-stack projects that taught me the stack I still use for
+frontends: **JobJolt** (hiring platform), **FinSavv** (banking UI), **Likhit** (blogging),
+and **DocuMate**. Mostly React, Next.js, TypeScript and Express.
+
+### 2023 — starting out
+
+First commits, static sites, and learning HTML, CSS and JavaScript properly.
+
+---
+
+## Stack
+
+| | |
+|---|---|
+| **AI** | Claude · OpenAI · Gemini · LangChain · LangGraph · tool calling · structured outputs · RAG · pgvector · multi-agent orchestration · vision-model QC · LLM-as-judge evals |
+| **Backend** | Python · FastAPI · Pydantic · Node.js · Electron · PostgreSQL · Redis · SSE streaming |
+| **Frontend** | Next.js · React · TypeScript · Tailwind · Swift / AppKit |
+| **Media** | ffmpeg · Whisper · ElevenLabs · Google Veo / Flow · Manim · headless rendering |
+| **Ops** | Docker · Git · GitHub Actions · Vercel · desktop packaging and auto-update channels |
+
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Tomar606/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tomar606&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=graywhite" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomar606&layout=compact&langs_count=6&hide_border=true&theme=graywhite" height="150" alt="Top languages" />
 </div>
-## Profile Views
 
+<div align="center">
+  <a href="mailto:gstomar606@gmail.com">gstomar606@gmail.com</a> ·
+  <a href="https://linkedin.com/in/gaurav-singh-tomar-046a6a26a">LinkedIn</a>
+</div>
