@@ -108,7 +108,7 @@ I still use today.
 | | |
 |---|---|
 | **AI** | Claude · OpenAI · Gemini · LangChain · LangGraph · tool calling · structured outputs · RAG · pgvector · multi-agent orchestration · vision-model QC · LLM-as-judge evals |
-| **Backend** | Python · FastAPI · Pydantic · Node.js · Electron · PostgreSQL · Redis · SSE streaming |
+| **Backend** | Python · FastAPI · Pydantic · Node.js · Electron · PostgreSQL · token streaming |
 | **Frontend** | Next.js · React · TypeScript · Tailwind · Swift / AppKit |
 | **Media** | ffmpeg · Whisper · ElevenLabs · Google Veo / Flow · Manim · headless rendering |
 | **Ops** | Docker · Git · GitHub Actions · Vercel · desktop packaging and auto-update channels |
