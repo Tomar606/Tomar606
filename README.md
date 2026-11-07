@@ -13,10 +13,11 @@
 
 <br />
 
-I build AI tooling that non-technical people actually use, and I stay on it until they use
-it without me. Most of my work is production systems with a human in the loop: generation
-pipelines with enforced quality gates, review stages a subject specialist can operate, and
-desktop software distributed to non-technical users across Windows and macOS.
+I build AI tooling that non-technical people actually use. I own whether its output is
+right, not just whether it runs, and I stay on it until people use it without me. Most of
+my work is production systems with a human in the loop: generation pipelines with enforced
+quality gates, review stages a subject specialist can operate, and desktop software
+distributed to non-technical users across Windows and macOS.
 
 > **Now** · building an internal AI toolkit: **20+ agent tools used by 200+ staff**,
 > covering spec authoring, analytics instrumentation, dashboard generation and content
@@ -54,14 +55,19 @@ designs compiled from Figma source to within 0–4 px and extended without code 
 Rewrote the production pipeline around a staged, resumable architecture where any stage
 restarts without redoing upstream work, retiring the earlier animation-only and
 generation-only tracks. Eight automated quality gates sit behind one command with a
-non-zero exit and auditable waivers, so nothing reaches delivery unchecked.
+non-zero exit and recorded waivers, so nothing reaches delivery unchecked. Skipped checks
+are reported separately from passes, so a check that silently did nothing can never read
+as a pass.
 
 #### [AI video production platform](https://github.com/Tomar606/manim-video-solution-generator) &nbsp;<sub>August</sub>
 
 One board-exam question becomes a finished vertical video: narration splicing, caption
-generation, generated b-roll, exact subject diagrams, compositing and delivery. Vision-model
-QC inspects rendered frames for layout, contrast and geometry defects. A provider-agnostic
-LLM layer keeps model choice out of 50+ downstream tools. The review stage is an
+generation, generated b-roll, exact subject diagrams, compositing and delivery. Generation
+is used only where an approximation is acceptable: subject diagrams are built exactly
+rather than generated, because in exam content the diagram is the answer and generated
+video invents structure. Vision-model QC inspects rendered frames for layout, contrast and
+geometry defects. A provider-agnostic LLM layer keeps model choice out of 50+ downstream
+tools, so switching vendors is a configuration change. The review stage is an
 auto-generated page showing every frame with its narration and audio, where a reviewer's
 inline notes come back as one structured response the system consumes directly.
 
