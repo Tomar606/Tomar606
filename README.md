@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="assets/tiger.gif" alt="" width="420" />
-
 # Gaurav Singh Tomar
 
-**AI Product Engineer** &nbsp;·&nbsp; Arivihan Technologies
+**AI Product Engineer**
 
 <img src="https://img.shields.io/badge/Indore,_India-3D5A50?style=flat-square" alt="Indore, India" />
 <img src="https://img.shields.io/badge/Open_to_Remote-C0562A?style=flat-square" alt="Open to Remote" />
@@ -20,11 +18,17 @@ it without me. Most of my work is production systems with a human in the loop: g
 pipelines with enforced quality gates, review stages a subject specialist can operate, and
 desktop software distributed to non-technical users across Windows and macOS.
 
-> **Now** · building the internal AI toolkit at Arivihan: **20+ agent tools used by 200+ staff**,
+> **Now** · building an internal AI toolkit: **20+ agent tools used by 200+ staff**,
 > covering spec authoring, analytics instrumentation, dashboard generation and content
 > pipelines, distributed as a synced plugin so improvements reach everyone at once.
 > Also running the AI video production platform that has shipped **800+ educational videos**
 > across four state boards in Hindi and English medium.
+
+<br />
+
+<div align="center">
+  <img src="assets/tiger.gif" alt="" width="440" />
+</div>
 
 <br />
 
