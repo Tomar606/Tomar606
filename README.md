@@ -4,8 +4,8 @@
 people actually use, and I stay on it until they use it without me.
 
 Most of my work is production systems with a human in the loop: generation pipelines with
-real quality gates, review stages a subject teacher can operate, and desktop apps that
-install on a colleague's Windows machine without anyone's help. Based in Indore, India.
+enforced quality gates, review stages a subject specialist can operate, and desktop software
+distributed to non-technical users across Windows and macOS. Based in Indore, India.
 Open to remote.
 
 ---
@@ -26,24 +26,19 @@ across four state boards in Hindi and English medium.
 ### 2026 — AI systems and shipped products
 
 **October — [Design Automater](https://github.com/Tomar606/design-automater-releases)**
-A desktop app for turning raw study material into finished design decks. A non-technical
-user picks a design, drops in PDFs, Word files, scans, Excel or PowerPoint, reviews the
-structured data Claude extracted beside a live preview, and gets PNG slides plus a PDF.
-Local-first: the dashboard runs on the user's own machine and their files never leave it.
-Ships as a Windows installer that needs no admin rights, installs its own runtime on first
-launch, and updates through a public release channel. New designs drop in as a folder,
-compiled from Figma frames to within 0–4 px of the source.
+A desktop application that converts unstructured source material into finished,
+design-consistent deliverables. A user selects a design, submits PDFs, Word files, scans,
+Excel or PowerPoint, reviews the structure extracted by Claude against a live preview, and
+exports print-ready PNG slides and PDFs. Built on a privacy-preserving architecture:
+documents are processed on the user's own device and only extracted content reaches the
+model provider. Distributed across Windows and macOS through a managed update channel, with
+designs compiled from Figma source to within 0–4 px and extended without code changes.
 
 **October — video pipeline, third generation**
 Rewrote the production pipeline around a staged, resumable architecture where any stage
 restarts without redoing upstream work, retiring the earlier animation-only and
 generation-only tracks. Eight automated quality gates sit behind one command with a
 non-zero exit and auditable waivers, so nothing reaches delivery unchecked.
-
-**September — [flow-animator](https://github.com/Tomar606/flow-animator)**
-Topic briefs in, keyed animation clips out. Drives Google Flow through a local bridge,
-keys the result, and delivers finished clips straight into the folder the video pipeline
-reads.
 
 **August — [AI video production platform](https://github.com/Tomar606/manim-video-solution-generator)**
 One board-exam question becomes a finished vertical video: narration splicing, caption
@@ -54,9 +49,9 @@ auto-generated page showing every frame with its narration and audio, where a re
 inline notes come back as one structured response the system consumes directly.
 
 **August — content-factory**
-Compiles a Figma frame once into a reusable template, then batch-renders structured content
-to PDF and PNG through headless Chromium — something the Figma API cannot do without a
-manual click per chapter.
+Deterministic document rendering at batch scale. Design source compiles once into a
+versioned template, after which structured content renders to print-ready PDF and PNG with
+reproducible, diffable output and no manual step per document.
 
 **July — PawDesk**
 A macOS desktop companion in Swift. A click-through, always-on-top pet driven by a
@@ -73,19 +68,11 @@ from April.
 is the year the focus changed from building web apps to building systems that produce
 things.
 
-### 2024 — full-stack web
+### 2023–2024 — full-stack foundations
 
-**[EIClassroom](https://github.com/Tomar606/EIClassroom-client)** — an LMS for my college
-department: QR attendance, internal forms and surveys, assignment distribution, automated
-evaluation and report generation. Client and server, self-hosted on the college intranet.
-
-Alongside it a run of full-stack projects that taught me the stack I still use for
-frontends: **JobJolt** (hiring platform), **FinSavv** (banking UI), **Likhit** (blogging),
-and **DocuMate**. Mostly React, Next.js, TypeScript and Express.
-
-### 2023 — starting out
-
-First commits, static sites, and learning HTML, CSS and JavaScript properly.
+A run of full-stack projects in React, Next.js, TypeScript and Express — hiring platforms,
+banking interfaces, publishing tools and document systems — that built the frontend stack
+I still use today.
 
 ---
 
